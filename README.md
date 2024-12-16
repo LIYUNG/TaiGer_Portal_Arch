@@ -1,3 +1,3 @@
 # TaiGer_Portal_Arch
 
-![](Untitled Diagram.drawio.png)
+![TaiGer Portal Architecture](architecture.drawio.png)
